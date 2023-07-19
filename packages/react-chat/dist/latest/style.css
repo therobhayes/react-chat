@@ -9,13 +9,17 @@
     max-width: 100% ;
 }
 
-/* .voiceflow-chat {}
+/* .voiceflow-chat {} */
 
-.vfrc-launcher {}
+.vfrc-launcher {
+    visiblity: hidden;
+}
 
-.vfrc-chat--overlay {}
+.vfrc-chat--overlay {
+    transition: none;
+}
 
-.vfrc-prompt {} */
+/* .vfrc-prompt {} */
 
 /* CHAT WIDGET HEADER - Customize the content, controls and styling included in your chat widget header, including the Assistant Information. Note that changes to the assistant informaton here will be shared across other elements that consume this styling. */
 
