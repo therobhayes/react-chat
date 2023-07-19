@@ -2,32 +2,27 @@ header {
     visibility: hidden;
     height: 0px !important;
 }
-​
-.vfrc-assistant-info {
+​#vfrc-assistant-info {
     visibility: hidden;
     height: 0px;
 }
-​
-.vfrc-footer--watermark {
+#vfrc-footer--watermark {
     visibility: hidden;
     height: 0px;
 }
-​
-.vfrc-system-response--message {
+​#vfrc-system-response--message {
     .vfrc-message {
     background-color: #DBDBE6 !important;
     border-radius: 4px !important;
 }}
-​
-.vfrc-user-response {
+​.vfrc-user-response {
     .vfrc-message {
         background-color: #DBDBE6 !important;
         border-radius: 4px !important;
         color: #000000 !important;
     }
 }
-​
-.vfrc-button {
+​.vfrc-button {
     color: #091747 !important;
     border-color: #091747 !important;
     border-radius: 4px !important;
