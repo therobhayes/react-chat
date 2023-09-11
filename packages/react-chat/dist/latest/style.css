@@ -121,5 +121,5 @@
 .vfrc-footer--watermark {
     visibility: hidden;
     height: 0px;
-    padding: 0px;
+    padding: 0px !important;
 }
