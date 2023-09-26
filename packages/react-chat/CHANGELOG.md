@@ -3,6 +3,77 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.46.3](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.46.2...@voiceflow/react-chat@1.46.3) (2023-09-23)
+
+### Bug Fixes
+
+* remove break br tag insertion (CV3-370) ([#75](https://github.com/voiceflow/react-chat/issues/75)) ([e5baa57](https://github.com/voiceflow/react-chat/commit/e5baa577df7b6befd749d479a4896b1b7fb5b54e))
+
+## [1.46.2](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.46.1...@voiceflow/react-chat@1.46.2) (2023-09-22)
+
+### Bug Fixes
+
+* remove markdown p whitespace pre-wrap (CV3-370) ([4fdab44](https://github.com/voiceflow/react-chat/commit/4fdab440ac1d70eb08c780096dfb477eb5baf272))
+
+## [1.46.1](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.46.0...@voiceflow/react-chat@1.46.1) (2023-08-30)
+
+### Bug Fixes
+
+* do not set the status if it is already set (DX-610) ([#74](https://github.com/voiceflow/react-chat/issues/74)) ([1f24b06](https://github.com/voiceflow/react-chat/commit/1f24b061b50a4f866e58f0b1db5bf2bc3f9a8e63))
+
+# [1.46.0](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.45.4...@voiceflow/react-chat@1.46.0) (2023-08-30)
+
+### Features
+
+* add destroy method and improve listeners hook (CT-000) ([#72](https://github.com/voiceflow/react-chat/issues/72)) ([52648cf](https://github.com/voiceflow/react-chat/commit/52648cfc588c7f725be6821776867cd1fe274ac5))
+
+## [1.45.4](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.45.3...@voiceflow/react-chat@1.45.4) (2023-08-26)
+
+### Bug Fixes
+
+* whitespace prewrap p tags (BUG-555) ([ba3b61c](https://github.com/voiceflow/react-chat/commit/ba3b61c48b279db91f95eff6df6797ee79a9d3e2))
+
+## [1.45.3](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.45.2...@voiceflow/react-chat@1.45.3) (2023-08-26)
+
+### Bug Fixes
+
+* add pre-wrap to markdown code (BUG-555) ([9b20940](https://github.com/voiceflow/react-chat/commit/9b2094051f9abdffd19ad14fb6a58c0ff218da42))
+
+### Reverts
+
+* Revert "fix: revert all markdown issues" ([5f59262](https://github.com/voiceflow/react-chat/commit/5f59262bc55687e63460f1402868c001164e0d7f))
+
+## [1.45.2](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.45.1...@voiceflow/react-chat@1.45.2) (2023-08-26)
+
+### Bug Fixes
+
+* revert all markdown issues ([c48a7b2](https://github.com/voiceflow/react-chat/commit/c48a7b23f2baae420bb6d1f4d2fea421f4679af5))
+
+## [1.45.1](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.45.0...@voiceflow/react-chat@1.45.1) (2023-08-26)
+
+### Bug Fixes
+
+* react markdown build (BUG-555) ([e3a8d0a](https://github.com/voiceflow/react-chat/commit/e3a8d0a52cfe5eadef07f074230ccf05e4ae1d0e))
+* use new markdown library (BUG-555) ([ca79759](https://github.com/voiceflow/react-chat/commit/ca79759a2b69d62588e2b3b937b45ff031f5824e))
+
+# [1.45.0](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.44.1...@voiceflow/react-chat@1.45.0) (2023-08-21)
+
+### Features
+
+* disable widget zoom (CV3-286) ([#67](https://github.com/voiceflow/react-chat/issues/67)) ([dce937d](https://github.com/voiceflow/react-chat/commit/dce937df1a26f8996c4e255bc18780249a762fe8))
+
+## [1.44.1](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.44.0...@voiceflow/react-chat@1.44.1) (2023-08-09)
+
+### Bug Fixes
+
+* markup styling fixes ([2ba690a](https://github.com/voiceflow/react-chat/commit/2ba690a6b47e4c24c0b141419d4d1a03392b6824))
+
+# [1.44.0](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.43.0...@voiceflow/react-chat@1.44.0) (2023-08-08)
+
+### Features
+
+* markdown serializer (CT-000) ([#66](https://github.com/voiceflow/react-chat/issues/66)) ([5522b54](https://github.com/voiceflow/react-chat/commit/5522b54d0117748b3d904aa950b84897505e6309))
+
 # [1.43.0](https://github.com/voiceflow/react-chat/compare/@voiceflow/react-chat@1.42.0...@voiceflow/react-chat@1.43.0) (2023-07-19)
 
 ### Features

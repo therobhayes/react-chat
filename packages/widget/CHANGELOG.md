@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.3](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.7.2...@voiceflow/widget@1.7.3) (2023-09-23)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.7.2](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.7.1...@voiceflow/widget@1.7.2) (2023-09-22)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.7.1](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.7.0...@voiceflow/widget@1.7.1) (2023-08-30)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+# [1.7.0](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.10...@voiceflow/widget@1.7.0) (2023-08-30)
+
+### Features
+
+* add destroy method and improve listeners hook (CT-000) ([#72](https://github.com/voiceflow/react-chat/issues/72)) ([52648cf](https://github.com/voiceflow/react-chat/commit/52648cfc588c7f725be6821776867cd1fe274ac5))
+
+## [1.6.10](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.9...@voiceflow/widget@1.6.10) (2023-08-26)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.9](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.8...@voiceflow/widget@1.6.9) (2023-08-26)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.8](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.7...@voiceflow/widget@1.6.8) (2023-08-26)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.7](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.6...@voiceflow/widget@1.6.7) (2023-08-26)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.6](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.5...@voiceflow/widget@1.6.6) (2023-08-21)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.5](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.4...@voiceflow/widget@1.6.5) (2023-08-09)
+
+**Note:** Version bump only for package @voiceflow/widget
+
+## [1.6.4](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.3...@voiceflow/widget@1.6.4) (2023-08-08)
+
+**Note:** Version bump only for package @voiceflow/widget
+
 ## [1.6.3](https://github.com/voiceflow/react-chat/compare/@voiceflow/widget@1.6.2...@voiceflow/widget@1.6.3) (2023-07-19)
 
 **Note:** Version bump only for package @voiceflow/widget
